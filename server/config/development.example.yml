@@ -1,0 +1,9 @@
+db:
+  host: dbhost
+  username: username
+  password: password
+  synchronize: true
+  logging: true
+
+jwt:
+  secret: 'notsosecret'
